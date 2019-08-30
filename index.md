@@ -26,13 +26,17 @@ page_sections:
     image: "/uploads/2019/08/30/livejasmin-promotions.jpg"
     alt_text: livejasmin promotions
   headline: "<strong>LiveJasmin.com</strong>"
-  content: We decided to begin our search with arguably the best sex site that the
-    web has to offer and inspect their host of unshaven cam girls. LiveJasmin features
-    the best video and audio quality, head and shoulders above the competition. Video
-    quality is paramount important if you enjoy the sight of hairy legs and bushy
-    vaginas, and LiveJasmin doesn't disappoint. This site insists that all models
-    broadcast video at a minimum of 720p, ensuring a rewarding richness to their shows,
-    however many hairy pussy models stream in full 1080p for ultimate viewing pleasure.
+  content: We decided to begin our search with arguably the <a href="https://awecrptjmp.com/?siteId=jasmin&amp;categoryName=girl&amp;pageName=listpage&amp;performerName=&amp;prm[psid]=xxxsabn&amp;prm[pstool]=205_1&amp;prm[psprogram]=revs&amp;prm[campaign_id]=&amp;subAffId={SUBAFFID}&amp;prm[utm_source]=paid&amp;filters=hairy-pussy"
+    title="LiveJasmin hairy">best sex site</a> that the web has to offer and inspect
+    their host of unshaven cam girls. <a href="https://awecrptjmp.com/?siteId=jasmin&amp;categoryName=girl&amp;pageName=listpage&amp;performerName=&amp;prm[psid]=xxxsabn&amp;prm[pstool]=205_1&amp;prm[psprogram]=revs&amp;prm[campaign_id]=&amp;subAffId={SUBAFFID}&amp;prm[utm_source]=paid&amp;filters=hairy-pussy"
+    title="Livejasmin">LiveJasmin</a> features the best video and audio quality, head
+    and shoulders above the competition. Video quality is paramount important if you
+    enjoy the sight of hairy legs and bushy vaginas, and <a href="https://awecrptjmp.com/?siteId=jasmin&amp;categoryName=girl&amp;pageName=listpage&amp;performerName=&amp;prm[psid]=xxxsabn&amp;prm[pstool]=205_1&amp;prm[psprogram]=revs&amp;prm[campaign_id]=&amp;subAffId={SUBAFFID}&amp;prm[utm_source]=paid&amp;filters=hairy-pussy"
+    title="Livejasmin">LiveJasmin</a> doesn't disappoint. This site insists that all
+    models broadcast video at a minimum of 720p, ensuring a rewarding richness to
+    their shows, however many <a href="https://awecrptjmp.com/?siteId=jasmin&amp;categoryName=girl&amp;pageName=listpage&amp;performerName=&amp;prm[psid]=xxxsabn&amp;prm[pstool]=205_1&amp;prm[psprogram]=revs&amp;prm[campaign_id]=&amp;subAffId={SUBAFFID}&amp;prm[utm_source]=paid&amp;filters=hairy-pussy"
+    title="Hairy pussy">hairy pussy models </a>stream in full 1080p for ultimate viewing
+    pleasure.
 - template: content-feature
   block: feature-1
   media_alignment: Right
