@@ -20,7 +20,7 @@ page_sections:
     button_text: Download
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
+  headline: 'Hairy Cam Girls: The Bush is Back on Live Cam!'
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
