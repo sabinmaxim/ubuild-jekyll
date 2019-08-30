@@ -44,16 +44,20 @@ page_sections:
     image: "/uploads/2019/08/30/jasmin-hairy.jpg"
     alt_text: livejasmin hairy
   headline: "<strong>How to Find Sexy Hairy Vagina Cams on LiveJasmin</strong>"
-  content: Unshaven cam girls seem to be growing in popularity. From hairy arm-pits
-    to furry legs, more and more cam girls are returning to the natural look and letting
-    it all grow out. There is a movement of cam models out there who have decided
-    to abandon popular pubic hair styles, such as the chique 'Brazilian Bikini Wax',
-    and are now returning to an era better known for it's sex, drugs and rock n roll.
-    These cam girls are proud of their untamed nether regions, and are bringing back
-    the bush.<br><br>LiveJasmin has a choice selection of hairy vagina cams which
-    can be found in their filters menu, under appearance. Unshaven cam girls can also
-    manually be found by typing in the search bar. There are many sexy models to choose
-    from, and for the right price, they will expose all their hair in full glory.
+  content: <a href="https://awecrptjmp.com/?siteId=jasmin&amp;categoryName=girl&amp;pageName=listpage&amp;performerName=&amp;prm[psid]=xxxsabn&amp;prm[pstool]=205_1&amp;prm[psprogram]=revs&amp;prm[campaign_id]=&amp;subAffId={SUBAFFID}&amp;prm[utm_source]=paid&amp;filters=hairy-pussy"
+    title="Unshaven">Unshaven cam girls</a> seem to be growing in popularity. From
+    hairy arm-pits to furry legs, more and more cam girls are returning to the natural
+    look and letting it all grow out. There is a movement of cam models out there
+    who have decided to abandon popular pubic hair styles, such as the chique 'Brazilian
+    Bikini Wax', and are now returning to an era better known for it's sex, dr**s
+    and rock n roll. These cam girls are proud of their untamed nether regions, and
+    are bringing back <a href="https://awecrptjmp.com/?siteId=jasmin&amp;categoryName=girl&amp;pageName=listpage&amp;performerName=&amp;prm[psid]=xxxsabn&amp;prm[pstool]=205_1&amp;prm[psprogram]=revs&amp;prm[campaign_id]=&amp;subAffId={SUBAFFID}&amp;prm[utm_source]=paid&amp;filters=hairy-pussy"
+    title="Hairy bush">the bush</a>.<br><br><a href="https://awecrptjmp.com/?siteId=jasmin&amp;categoryName=girl&amp;pageName=listpage&amp;performerName=&amp;prm[psid]=xxxsabn&amp;prm[pstool]=205_1&amp;prm[psprogram]=revs&amp;prm[campaign_id]=&amp;subAffId={SUBAFFID}&amp;prm[utm_source]=paid&amp;filters=hairy-pussy"
+    title="Livejasmin">LiveJasmin</a> has a choice selection of hairy vagina cams
+    which can be found in their filters menu, under appearance. Unshaven cam girls
+    can also manually be found by typing in the search bar. There are many sexy models
+    to choose from, and for the right price, they will <a href="https://awecrptjmp.com/?siteId=jasmin&amp;categoryName=girl&amp;pageName=listpage&amp;performerName=&amp;prm[psid]=xxxsabn&amp;prm[pstool]=205_1&amp;prm[psprogram]=revs&amp;prm[campaign_id]=&amp;subAffId={SUBAFFID}&amp;prm[utm_source]=paid&amp;filters=hairy-pussy"
+    title="Hairy">expose all their hair in full glory</a>.
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
