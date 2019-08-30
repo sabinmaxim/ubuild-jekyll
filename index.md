@@ -11,8 +11,11 @@ page_sections:
     tomorrow. Our topic today is making a comeback that seems to be growing. We're
     here to talk about pubic hair. If you dig the<span class="Apple-converted-space">
     </span><em>au-naturel</em><span class="Apple-converted-space"> </span>look, you've
-    come to the right place. Join us as we explore the best adult chat sites to watch
-    hairy cam girls live.<br><br>Prepare for the very best in unshaved cam girls.
+    come to the right place. Join us as we explore the best adult chat sites to <a
+    href="https://awecrptjmp.com/?siteId=jasmin&amp;categoryName=girl&amp;pageName=listpage&amp;performerName=&amp;prm[psid]=xxxsabn&amp;prm[pstool]=205_1&amp;prm[psprogram]=revs&amp;prm[campaign_id]=&amp;subAffId={SUBAFFID}&amp;prm[utm_source]=paid&amp;filters=hairy-pussy"
+    title="hairy cam girls on webcam">watch hairy cam girls live</a>.<br><br>Prepare
+    for <a href="https://awecrptjmp.com/?siteId=jasmin&amp;categoryName=girl&amp;pageName=listpage&amp;performerName=&amp;prm[psid]=xxxsabn&amp;prm[pstool]=205_1&amp;prm[psprogram]=revs&amp;prm[campaign_id]=&amp;subAffId={SUBAFFID}&amp;prm[utm_source]=paid&amp;filters=hairy-pussy"
+    title="unshaved hairy pussy">the very best in unshaved cam girls</a>.
   media:
     image: "/uploads/2019/08/30/12d34a75729b42e0dcbb044f157efa2d.jpg"
     alt_text: Sexy girl hairy
