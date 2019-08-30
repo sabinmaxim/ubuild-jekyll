@@ -39,9 +39,8 @@ page_sections:
   content: Hello world! ❤︎
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2019/08/30/2-foto.png"
+  image: "/uploads/2019/08/30/me1.jpg"
   caption: sexy
-published: false
 
 ---
 foo bar
