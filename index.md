@@ -50,6 +50,14 @@ page_sections:
   media:
     image: "/uploads/2019/08/30/livejasmin-logo.jpg"
     alt_text: Livejasmin
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2019/08/30/jasmin-hairy.jpg"
+    alt_text: livejasmin hairy
+  headline: ''
+  content: ''
 
 ---
 foo bar
