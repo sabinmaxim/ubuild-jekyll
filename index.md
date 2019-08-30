@@ -59,8 +59,8 @@ page_sections:
     broadcast video at a minimum of 720p, ensuring a rewarding richness to their shows,
     however many hairy pussy models stream in full 1080p for ultimate viewing pleasure.
   media:
-    image: "/uploads/2019/08/30/me1.jpg"
-    alt_text: ''
+    image: "/uploads/2019/08/30/livejasmin-logo.jpg"
+    alt_text: Livejasmin
 
 ---
 foo bar
