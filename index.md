@@ -49,7 +49,7 @@ page_sections:
     hairy cam girls live.<br><br>Prepare for the very best in unshaved cam girls.
   media:
     image: "/uploads/2019/08/30/12d34a75729b42e0dcbb044f157efa2d.jpg"
-    alt_text: Livejasmin
+    alt_text: Sexy girl hairy
 - template: content-feature
   block: feature-1
   media_alignment: Right
