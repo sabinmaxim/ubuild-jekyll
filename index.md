@@ -37,10 +37,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
-- template: navigation-header
-  block: header-1
-  logo: ''
-  navigation: []
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 
 ---
 foo bar
