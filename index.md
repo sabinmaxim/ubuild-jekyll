@@ -41,6 +41,7 @@ page_sections:
   block: media-1
   image: "/uploads/2019/08/30/2-foto.png"
   caption: sexy
+published: false
 
 ---
 foo bar
