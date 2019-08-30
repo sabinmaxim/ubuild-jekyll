@@ -40,7 +40,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2019/08/30/2-foto.png"
-  caption: ''
+  caption: sexy
 
 ---
 foo bar
