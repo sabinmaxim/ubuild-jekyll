@@ -21,9 +21,12 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 'Hairy Cam Girls: The Bush is Back on Live Cam!'
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+  content: The time for hairy cam girls is now! Some fetishes are hip today, and not
+    tomorrow. Our topic today is making a comeback that seems to be growing. We're
+    here to talk about pubic hair. If you dig the<span class="Apple-converted-space">
+    </span><em>au-naturel</em><span class="Apple-converted-space"> </span>look, you've
+    come to the right place. Join us as we explore the best adult chat sites to watch
+    hairy cam girls live.Prepare for the very best in unshaved cam girls.
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
