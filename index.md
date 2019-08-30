@@ -26,9 +26,14 @@ page_sections:
     here to talk about pubic hair. If you dig the<span class="Apple-converted-space">
     </span><em>au-naturel</em><span class="Apple-converted-space"> </span>look, you've
     come to the right place. Join us as we explore the best adult chat sites to watch
-    hairy cam girls live.<br><br>Prepare for the very best in unshaved cam girls.<br><br><br><img
-    src="/uploads/2019/08/30/2-foto.png" title="Sexy Hairy Cam Girl" alt="Sexy Hairy
-    Cam Girl"><br><br>
+    hairy cam girls live.<br><br>Prepare for the very best in unshaved cam girls.<br><br><strong>LiveJasmin.com<br><br></strong>We
+    decided to begin our search with arguably the best sex site that the web has to
+    offer and inspect their host of unshaven cam girls. LiveJasmin features the best
+    video and audio quality, head and shoulders above the competition. Video quality
+    is paramount important if you enjoy the sight of hairy legs and bushy vaginas,
+    and LiveJasmin doesn't disappoint. This site insists that all models broadcast
+    video at a minimum of 720p, ensuring a rewarding richness to their shows, however
+    many hairy pussy models stream in full 1080p for ultimate viewing pleasure.<br>
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
