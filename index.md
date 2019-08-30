@@ -48,7 +48,7 @@ page_sections:
     come to the right place. Join us as we explore the best adult chat sites to watch
     hairy cam girls live.<br><br>Prepare for the very best in unshaved cam girls.
   media:
-    image: "/uploads/2019/08/30/livejasmin-logo.jpg"
+    image: "/uploads/2019/08/30/12d34a75729b42e0dcbb044f157efa2d.jpg"
     alt_text: Livejasmin
 - template: content-feature
   block: feature-1
