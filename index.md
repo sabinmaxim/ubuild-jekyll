@@ -33,7 +33,19 @@ page_sections:
     is paramount important if you enjoy the sight of hairy legs and bushy vaginas,
     and LiveJasmin doesn't disappoint. This site insists that all models broadcast
     video at a minimum of 720p, ensuring a rewarding richness to their shows, however
-    many hairy pussy models stream in full 1080p for ultimate viewing pleasure.<br>
+    many hairy pussy models stream in full 1080p for ultimate viewing pleasure.<br><br><br>
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
