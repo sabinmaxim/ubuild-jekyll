@@ -37,20 +37,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
-- template: detail-content
-  block: text-1
-  headline: test
-  content: "<p>We decided to begin our search with arguably the best sex site that
-    the web has to offer and inspect their host of unshaven cam girls. LiveJasmin
-    features the best video and audio quality, head and shoulders above the competition.
-    Video quality is paramount important if you enjoy the sight of hairy legs and
-    bushy vaginas, and LiveJasmin doesn't disappoint. This site insists that all models
-    broadcast video at a minimum of 720p, ensuring a rewarding richness to their shows,
-    however many hairy pussy models stream in full 1080p for ultimate viewing pleasure.</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: lets see
+  headline: "<strong>Hairy Cam Girls: The Bush is Back on Live Cam!</strong>"
   content: We decided to begin our search with arguably the best sex site that the
     web has to offer and inspect their host of unshaven cam girls. LiveJasmin features
     the best video and audio quality, head and shoulders above the competition. Video
