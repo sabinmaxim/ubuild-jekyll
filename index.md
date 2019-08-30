@@ -43,9 +43,9 @@ page_sections:
   headline: ''
   content: ''
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: https://google.com
+    button_text: LEts see
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
