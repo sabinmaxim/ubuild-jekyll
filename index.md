@@ -34,13 +34,13 @@ page_sections:
     and LiveJasmin doesn't disappoint. This site insists that all models broadcast
     video at a minimum of 720p, ensuring a rewarding richness to their shows, however
     many hairy pussy models stream in full 1080p for ultimate viewing pleasure.<br><br><br>
-- template: signup-bar
-  block: cta-bar
-  content: ''
-  email_recipient: ''
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: full-width-media-element
+  block: media-1
+  image: ''
+  caption: ''
 
 ---
 foo bar
