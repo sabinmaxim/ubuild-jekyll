@@ -26,7 +26,9 @@ page_sections:
     here to talk about pubic hair. If you dig the<span class="Apple-converted-space">
     </span><em>au-naturel</em><span class="Apple-converted-space"> </span>look, you've
     come to the right place. Join us as we explore the best adult chat sites to watch
-    hairy cam girls live.<br><br>Prepare for the very best in unshaved cam girls.
+    hairy cam girls live.<br><br>Prepare for the very best in unshaved cam girls.<br><br><br><img
+    src="/uploads/2019/08/30/2-foto.png" title="Sexy Hairy Cam Girl" alt="Sexy Hairy
+    Cam Girl"><br><br>
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
